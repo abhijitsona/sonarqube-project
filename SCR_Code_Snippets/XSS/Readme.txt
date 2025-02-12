@@ -1,1 +1,0 @@
-# Add acep.sql in he phpmyadmin --> Create a database ---> xssacep ---> import ----> xssacep.sql
